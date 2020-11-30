@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=rH0A9X2bAtM&feature=emb_title
 
 
 ②(公立千歳科学技術大学) 秋のLT大会 2020 Online
-発表内容　　　「オンラインハッカソンにハッカソン初心者チームで参加してKizukAIchanというアプリを作った話」
+発表内容..
+「オンラインハッカソンにハッカソン初心者チームで参加してKizukAIchanというアプリを作った話」
 https://docs.google.com/presentation/d/1d8Un8rWLwOMUuwNIqI7jOHf0cZiIEv1MlvkBct2dZxI/edit?usp=sharing
 
 ③ IOSDC　カンファレンススタッフ
