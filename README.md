@@ -1,6 +1,6 @@
 # OutPuts
 
-##外部活動
+## 外部活動
 
 ①よちよち.swift主催（第一回は司会を担当しました）
 
@@ -18,7 +18,7 @@ https://youtu.be/ZCRxC-ACyHY
 
 https://note.com/ikepon413/n/n6a8823f57a08. 
 
-##過去のLTスライド
+## 過去のLTスライド
 
 ①CAMPHOR- LT 2020 Summer   
 発表内容　
